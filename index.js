@@ -100,3 +100,4 @@ function highScorer(leadeBoard) {
 showQuestionAndOptions(database);
 console.log(kuler(`Your score is - ${score}`, "#5eead4"));
 highScorer(leaderBoard);
+
